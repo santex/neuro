@@ -1,0 +1,4 @@
+#!/bin/sh
+
+basedir=$HOME
+
